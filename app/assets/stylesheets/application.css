@@ -13,9 +13,3 @@
  *= require_tree .
  *= require_self
  */
- $yellow: #feb72b;
-
- body {
-   background: $yellow;
- }
-
